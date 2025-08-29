@@ -1,0 +1,25 @@
+{
+    "home": {
+        "error": "Could not load the verse. Please try reloading the page.",
+        "footer": "All rights reserved.",
+        "dailyVerseMessage": "Live one verse each day."
+    },
+    "qrCodeDialog": {
+        "generateButton": "GENERATE QR CODE",
+        "title": "Share QRVerse",
+        "description": "Scan the QR Code to visit this site. Download or print to share.",
+        "copyUrlButton": "Copy URL",
+        "downloadButton": "Download",
+        "printButton": "Print",
+        "printTitle": "Print QR Code - QRVerse",
+        "toast": {
+            "copiedTitle": "Copied!",
+            "copiedDescription": "The URL has been copied to the clipboard.",
+            "errorTitle": "Error",
+            "downloadError": "Failed to download the QR Code."
+        }
+    },
+    "languageSwitcher": {
+        "selectLanguage": "Select Language"
+    }
+}

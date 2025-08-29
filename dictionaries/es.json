@@ -1,0 +1,25 @@
+{
+    "home": {
+        "error": "No se pudo cargar el versículo. Por favor, intente recargar la página.",
+        "footer": "Todos los derechos reservados.",
+        "dailyVerseMessage": "Vive un versículo cada día."
+    },
+    "qrCodeDialog": {
+        "generateButton": "GENERAR CÓDIGO QR",
+        "title": "Compartir QRVerse",
+        "description": "Escanee el código QR para visitar este sitio. Descargue o imprima para compartir.",
+        "copyUrlButton": "Copiar URL",
+        "downloadButton": "Descargar",
+        "printButton": "Imprimir",
+        "printTitle": "Imprimir código QR - QRVerse",
+        "toast": {
+            "copiedTitle": "¡Copiado!",
+            "copiedDescription": "La URL ha sido copiada al portapapeles.",
+            "errorTitle": "Error",
+            "downloadError": "No se pudo descargar el código QR."
+        }
+    },
+    "languageSwitcher": {
+        "selectLanguage": "Seleccionar Idioma"
+    }
+}
